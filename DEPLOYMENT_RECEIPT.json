@@ -1,0 +1,14 @@
+{
+  "project": "max-born-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "2FdaQZ3xU54qy7q6LVNCwZXp9vxrYfWb8yeTbQ71DLAT",
+  "vault_account": "6mWMrgoz6FNG2keJxoBigoEiYLDnBmDHYXjPCw9YcwKk",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "FYYFHXzWexoZPWhf25WmHWCzrSH1zMrgD8PXskTctG2HZP2VAExRR67hrUc69Wsf1zYzUQmPSYXYWUaaaAJ3xGn",
+  "account_tx": "31CdEAGkgENjgzM7xqUKQYRTipWSY9udtqoZZx4EmMJAGTYHJb3gDqger663VnFPUHmr7ZjVZHZmBhtnKkRjPNnR",
+  "mint_tx": "2LcVHyLAB2VcNyLMTQ7tu3WmneFJK9QR4kTF4CxY3uoBHM3MC1Wt2HYjGkH7pDbaJyxXogV1eFUL5LG7ZqAKcYoB",
+  "solana_explorer_mint": "https://explorer.solana.com/address/2FdaQZ3xU54qy7q6LVNCwZXp9vxrYfWb8yeTbQ71DLAT?cluster=devnet",
+  "timestamp": "2026-10-26 16:48:40 UTC"
+}
